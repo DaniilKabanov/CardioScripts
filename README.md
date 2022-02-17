@@ -36,3 +36,6 @@ Modification of AFM script for double-EBS model. That accuratly same with afmscr
 Script, optimised for calculation of MEA-60 experimetal data obtained with HL-1 cells. 
 
 #newMEAscrptAuto, #afmscript and #afmscript_doubleEBs provides information about RS amplitude, bpm, timepoints of R/S events, prominences of R and S peaks.  
+
+#MEAscript v 2.0
+New version of MEAScript with all QRST detection options.
